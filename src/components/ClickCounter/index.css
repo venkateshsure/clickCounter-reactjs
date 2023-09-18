@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.head {
+  color: #2d3a35;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.span-ele {
+  color: #c20a72;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.desc {
+  color: #2d3a35;
+  font-size: 10px;
+  font-family: 'Roboto';
+  font-weight: 100;
+  cursor: grab;
+}
+
+.but {
+  background-color: #007bff;
+  color: #ffffff;
+  border: 1px solid #007bff;
+  cursor: grab;
+}
